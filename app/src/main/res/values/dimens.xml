@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--DP-->
+    <dimen name="d250">250dp</dimen>
+    <dimen name="d150">150dp</dimen>
+    <dimen name="d16">16dp</dimen>
+    <dimen name="d32">32dp</dimen>
+    <dimen name="d42">42dp</dimen>
+    <dimen name="d4">4dp</dimen>
+    <dimen name="d8">8dp</dimen>
+    <dimen name="d50">50dp</dimen>
+    <dimen name="d100">100dp</dimen>
+    <dimen name="d200">200dp</dimen>
+
+    <!--SP-->
+    <dimen name="s24">24sp</dimen>
+    <dimen name="s20">20sp</dimen>
+    <dimen name="s32">32sp</dimen>
+    <dimen name="s18">18sp</dimen>
+    <dimen name="s16">16sp</dimen>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+</resources>

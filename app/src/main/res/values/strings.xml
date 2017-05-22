@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">DANS IAK3 FProject</string>
+    <string name="version_app">v1.0</string>
+
+    <!--Alt Img-->
+    <string name="altBanner">Gambar Banner</string>
+    <string name="altIcon">Icon Aplikasi</string>
+    <string name="altIshihara">Gambar Tes Ishihara</string>
+
+    <!--MainActivity-->
+    <string name="appText">Buta Warna</string>
+    <string name="cardPengertian">Pengertian</string>
+    <string name="cardPenyebab">Penyebab</string>
+    <string name="cardPengelompokan">Pengelompokan</string>
+    <string name="cardPembuktian">Pembuktian</string>
+    <string name="cardPengobatan">Pengobatan</string>
+    <string name="cardTes">Tes Ishihara</string>
+
+    <!--MainActivity Exit-->
+    <string name="exitDialog">Keluar?</string>
+    <string name="exitYes">Ya</string>
+    <string name="exitNo">Tidak</string>
+    <string name="exitToast">Ketuk dua kali untuk keluar</string>
+
+
+    <!--Test Activity-->
+    <string name="tesButaWarna">Tes Buta Warna</string>
+    <string name="btnTextNext">Berikutnya</string>
+    <string name="btnTextAnswer">Jawab</string>
+    <string name="emptyAnswerToast">Anda belum memasukan jawaban.</string>
+    <string name="correctAnswer">BENAR</string>
+    <string name="wrongAnswer">SALAH</string>
+    <string name="resultAnswer">Hasil</string>
+    <string name="userAnswer">Jawaban Anda</string>
+    <string name="testNext">Lanjut</string>
+    <string name="testClose">Tutup</string>
+
+    <!--Article-->
+    <string name="titlePengertian">Pengertian</string>
+    <string name="bodyPengertian">
+        Buta warna adalah berkurangnya kualitas penglihatan terhadap warna yang umumnya diturunkan kepada anak dari orang tua sejak dilahirkan. Penderita buta warna cenderung mengalami kesulitan saat melihat warna merah, hijau, biru, atau campuran warna-warna ini.
+    </string>
+
+    <string name="titlePenyebab">Penyebab</string>
+    <string name="bodyPenyebab">
+        Ada beberapa penyebab seseorang mengalami buta warna, di antaranya:
+        \n\n
+        Faktor genetik. Kebanyakan penderita buta warna yang mengalaminya sejak lahir disebabkan oleh faktor genetik yang berikatan dengan kromosom X. Seorang ayah penderita buta warna tidak akan memiliki anak yang menderita buta warna kecuali pasangannya memiliki gen buta warna. Hal ini mungkin karena wanita lebih berperan dalam menjadi pembawa gen (carrier) yang akan mewarisi buta warna kepada anak. Penderita buta warna akibat faktor genetik juga jauh lebih sering terjadi pada pria dibandingkan wanita, walau terkadang kondisi ini dapat melewati satu generasi. Anak perempuan dipastikan mengidap buta warna jika kedua orang tua adalah pembawa gen buta warna.
+        \n\n
+        Penyakit. Terdapat sejumlah penyakit yang bisa menyebabkan buta warna, seperti penyakit Parkinson, penyakit Alzheimer, glaukoma, kanker darah (leukemia), diabetes, pecandu minuman beralkohol kronis, degenerasi makula, dan anemia sel sabit.
+        \n\n
+        Usia. Kemampuan seseorang untuk membedakan warna perlahan-lahan akan berkurang seiring pertambahan usia. Ini adalah hal yang alami dalam proses penuaan dan tidak perlu dicemaskan secara berlebihan.
+        \n\n
+        Bahan kimia. Seseorang bisa mengalami buta warna jika terpapar bahan kimia beracun, misalnya di tempat kerja, seperti karbon disulfida dan pupuk.
+        \n\n
+        Efek samping pengobatan tertentu. Beberapa pengobatan berpotensi menyebabkan buta warna, seperti digoxin, phenytoin, klorokuin, dan sildenafil. Jika gangguan disebabkan oleh pengobatan, biasanya pandangan akan kembali normal setelah berhenti mengonsumsi obat.
+    </string>
+
+    <string name="titlePengelompokan">Pengelompokan</string>
+    <string name="bodyPengelompokan">
+        Sebagian besar penderita buta warna akan sulit membedakan gradasi warna merah, kuning, dan hijau seperti warna oranye dan cokelat. Tipe ini disebut dengan buta warna merah-hijau. Tipe ini juga menjadikan penderita sulit membedakan antara warna merah dengan warna hitam dan berbagai gradasi warna ungu. Pria memiliki kecenderungan mengalami buta warna tipe ini lebih besar dibandingkan dengan wanita. Tipe buta warna yang paling jarang terjadi adalah buta warna tipe biru-kuning di mana penderita tidak bisa membedakan warna biru, hijau, dan kuning.
+        \n \n
+        Seorang penderita buta warna dari berbagai jenis kondisi di atas dapat melihat warna-warna tersebut lebih kusam dibandingkan orang-orang yang memiliki penglihatan normal.
+    </string>
+
+    <string name="titlePembuktian">Pembuktian</string>
+    <string name="bodyPembuktian">
+        Tes Ishihara. Tes ini yang paling umum digunakan untuk mendiagnosis buta warna, namun hanya bisa mendiagnosis kondisi buta warna merah-hijau. Penderita akan diminta untuk mengenali angka yang samar-samar tertera di dalam sebuah gambar yang terbentuk dari titik-titik berwarna.
+        \n\n
+        Tes penyusunan. Tes ini dilakukan dengan cara menyusun objek berwarna dalam susunan gradasi warna yang berbeda-beda, lalu pasien akan diminta untuk menyusun benda berwarna tersebut sesuai dengan gradasi warna yang dilihatnya.
+    </string>
+
+    <string name="titlePengobatan">Pengobatan</string>
+    <string name="bodyPengobatan">
+        Walau sampai saat ini belum ada obat atau metode untuk mengobati buta warna, namun banyak penderita buta warna yang mampu belajar untuk beradaptasi dan menemukan cara dalam mengatasi masalah pembedaan warna. Di samping itu, teknologi medis juga telah menciptakan alat bantu bagi penderita buta warna, seperti lensa mata khusus dan disediakannya setelan tertentu pada perangkat elektronik, perlengkapan rumah tangga, atau komputer demi memudahkan hambatan yang ditemui oleh pengidap kondisi ini. Orang-orang di sekitar pengidap buta warna pun dapat turut membantu, misalnya dengan menyiapkan alat belajar yang sesuai atau memeriksa makanan sebelum dikonsumsi pengidap.
+        \n\n
+        Gejala buta warna masih dapat dikurangi dengan mengobati kondisi-kondisi yang mendasarinya atau jika buta warna yang diderita diakibatkan oleh pengobatan tertentu atau gangguan kesehatan yang telah ada sebelumnya.
+    </string>
+
+    <!--About Activity-->
+    <string name="appDesc">
+        Sebuah aplikasi Edukasi Android yang mengenalkan Buta Warna.
+        Mulai dari Pengertian, Penyebab, Pengelompokan, Pembuktian, Pengobatan dan Simulasi Tes Ishihara.
+    </string>
+    <string name="appFor">
+        Dibuat sebagai Final Project IAK Beginner Batch 3.
+    </string>
+    <string name="appLicense">Lisensi: GNU/GPLv3</string>
+    <string name="appGithub">Kode Program: https://github.com/davidadinugroho/IAK-Beginner-Final-Project</string>
+    <string name="developer">Pengembang</string>
+    <string name="developerName">David Adi Nugroho</string>
+    <string name="developerEmail">davidadi216@gmail.com</string>
+    <string name="artikel">Sumber Artikel</string>
+    <string name="sumberArtikel">http://www.alodokter.com/buta-warna</string>
+</resources>

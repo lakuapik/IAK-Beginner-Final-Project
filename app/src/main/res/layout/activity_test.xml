@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context="net.jagung.dansiak3fproject.TestActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/d50">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/mImageTest"
+                android:layout_width="@dimen/d250"
+                android:layout_height="@dimen/d250"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="@dimen/d16"
+                android:scaleType="centerCrop"
+                android:src="@drawable/ishihara_2"
+                />
+
+            <LinearLayout
+                android:id="@+id/mLinearAnswer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/d16"
+                android:orientation="horizontal"
+                android:padding="@dimen/d16">
+
+                <EditText
+                    android:id="@+id/mAnswer"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="@dimen/d32"
+                    android:layout_weight="1"
+                    android:inputType="number"
+                    android:textSize="@dimen/s32"/>
+
+                <Button
+                    android:layout_width="@dimen/d100"
+                    android:layout_height="@dimen/d50"
+                    android:background="@color/primary_light"
+                    android:onClick="onClickAnswer"
+                    android:text="@string/btnTextAnswer"
+                    android:textColor="@color/secondary_text"
+                    android:textSize="@dimen/s20"/>
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/primary_light"
+            android:onClick="onClickBtnNext"
+            android:text="@string/btnTextNext"
+            android:textColor="@color/secondary_text"
+            android:textSize="@dimen/s24"/>
+
+    </LinearLayout>
+
+</RelativeLayout>
